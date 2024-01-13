@@ -1,2 +1,0 @@
-# SoMe-Platform
-Building
